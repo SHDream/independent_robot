@@ -1,2 +1,2 @@
 # independent_robot
-成长性机器人
+##成长型机器人
