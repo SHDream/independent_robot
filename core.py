@@ -7,5 +7,9 @@ class Brain(object):
     def __init__(self, arg):
         self.arg = arg
 
-    def _thinking(self,*args,**kwarg):
+
+class Behavior(object):
+    def __init__(self):
+        pass
+
 
